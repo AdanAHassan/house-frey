@@ -1,0 +1,562 @@
+{
+    "POV": [ 
+          {
+            "id": "House_Frey",
+            "title": "House Frey",
+            "content": {
+             "intro": {
+                    "title": "Intro",
+                    "id": "Intro",
+                    "content": [
+                        "House Frey of the Crossing is a noble house of the riverlands. Their main seat is the Twins, a pair of castles on each bank of the northern Green Fork of the Trident that serves as a vital bridge across the river. The lord of the house is called the Lord of the Crossing.[3] Their sigil is two blue towers united by a bridge on silver-grey, representing the Twins.[3] Their house words are not mentioned in the books.[N 1] ",
+
+                        "The strategic location of the Twins has allowed the house to become quite wealthy,[4] and House Frey rules over wider domains than House Tully.[5] Under their current lord, Walder Frey, the family have grown in both size and power. One of the most powerful bannermen of the Tullys, the Freys can field a thousand knights and three thousand foot,[4] a much larger army than their overlord of House Tully.[5]"
+                    ]
+                },
+            "traits": {
+                "title": "Traits",
+                "id": "Traits",
+                "content": [
+                    "Most current Freys tend to share the weaselly appearance of their common ancestor, Lord Walder.[3]",
+                    
+                    "The Freys do not like their northern neighbours, the crannogmen of the Neck ruled by House Reed of Greywater Watch, calling them pejorative names like \"frogeaters\" or \"mudmen\".[6][7]"
+            ]
+            },  
+            "history": {
+                "title": "History",
+                "id": "History",
+                "content": {
+                    "origin": {
+                        "title": "Origin",
+                        "id": "Origin",
+                        "content": [
+                            "House Frey dates back six centuries, making it one of the younger noble houses in Westeros. The first Lord Frey was awarded lands and a noble status, and began the construction of a great bridge spanning the Green Fork of the Trident. Construction was finished under the rule of his grandson, who added wooden keeps on both sides of the river. The timber keeps were eventually replaced by stone keeps, which received the name \"the Twins\".[3]",
+
+                            "Due to their strategic location, House Frey prospered by exacting tolls for passage across the river, greatly increasing their wealth. House Frey has grown into the most powerful bannermen of House Tully of Riverrun,[8] and the Twins are among the strongest castles of the Seven Kingdoms.[9] However, some older houses look down upon the Freys as upstarts[4] and toll collectors.[10]",
+
+                            "Warriors from House Frey tried and failed to conquer Greywater Watch.[11]"
+                        ]
+                    },
+                    "targaryenEra": {
+                        "title": "Targaryen Era",
+                        "id": "Targaryen_Era",
+                        "content": [
+                            "During Aegon's Conquest, House Frey aided Aegon the Conqueror and rebelled against Harren the Black of Harrenhal, the King of the Isles and the Rivers. Afterward, the Freys joined the other river lords in swearing fealty to House Tully, the new Lords Paramount of the Trident for House Targaryen.[12]",
+
+                            "In 43 AC, Lord Frey supported Aegon the Uncrowned against his uncle, King Maegor I Targaryen.[13]",
+
+                            "A young Forrest Frey was mocked as fool Frey for asking for the hand of Princess Rhaenyra Targaryen.[14] During the Dance of the Dragons, House Frey sided with the blacks of Queen Rhaenyra against the greens of King Aegon II Targaryen. Lord Forrest Frey died fighting westermen in the Battle by the Lakeshore.[15]",
+
+                            "Ser Duncan the Tall recognized the Frey banner among the arms displayed at the tourney at Ashford Meadow.[16] Lord Ambrose Butterwell held the Whitewalls tourney to celebrate his marriage to his new lady wife who was a member of House Frey. Lord Frey attended the Whitewalls tourney, accompanied by his daughters, his four-year-old son (the current Lord Walder), his brother Franklyn, and his nephew.[10]",
+
+                            "During the tourney at Harrenhal, the squire of a Frey knight accosted Howland Reed. The Frey knight was later defeated by the Knight of the Laughing Tree and told to teach his squire honor.[11]",
+
+                            "During the long reign of Lord Walder Frey, the house exploded in size as he and his descendants sired many offspring.[3] He offered Brynden Tully his choice of three Frey girls in marriage.[17] When Lord Tytos Lannister acquiesced to Walder's proposal to marry his second son, Emmon, to Tytos's daughter Genna, the ten-year old Tywin Lannister spoke out against the match.[18]",
+
+                            "During Robert's Rebellion, Lord Walder arrived at the Battle of the Trident after the outcome was already decided. Lord Hoster Tully has since referred to his bannerman as the Late Lord Frey.[19]"
+                        ]
+                    },
+                    "baratheonEra": {
+                        "title": "Baratheon Era",
+                        "id": "Baratheon_Era",
+                        "content": [
+                            "Hoster Tully, the Lord Paramount of the Trident, refused a Frey bride for his son, Edmure, and did not attend Walder's wedding to his seventh wife, Annara Farring.[3] Lord Jon Arryn and Lady Lysa Arryn refused to foster Walder's grandsons at court in King's Landing or their own son, Robert Arryn, at the Twins.[3] Several Freys participated in the tourney on Prince Joffrey's name day.[3] Walder claims to have hosted three kings at the Twins during his rule.[3]",
+
+                            "After Chett killed Bessa, Walder Rivers was sent by Lord Walder to judge the criminal and send him to the Wall.[20]"
+                        ]
+                    }
+                }
+              },
+            "recentEvents": {
+                "title": "Recent Events",
+                "id": "Recent_Events",
+                "content": {
+                    "agot": {
+                    "title": "A Game of Thrones",
+                    "id": "A_Game_of_Thrones",
+                    "content": [
+                            "A score of Frey men are at the crossroads inn when Lady Catelyn Stark seizes Tyrion Lannister.[19] Rather than joining her to bring him to justice, the men report the event to Lord Walder Frey.[21]",
+                            
+                            "Six Freys attend the Hand's tourney in King's Landing: Ser Jared, Ser Hosteen, Ser Danwell, Ser Emmon, Ser Theo, and Ser Perwyn, as well as one of Lord Walder's bastards, Martyn Rivers.[22]",
+                            
+                            "As he had done in Robert's Rebellion, Lord Walder delays his response to Lord Hoster Tully's calling of banners, although he keeps near four thousand men at the Twins and defends their lands from Lannister outriders commanded by Ser Addam Marbrand.[3] When Robb Stark arrives at the Twins on his march south to free Lord Eddard Stark, he is received by Walder's heir, Ser Stevron. Walder negotiates with Robb's mother, Lady Catelyn, securing a marriage contract with Robb and linking the Freys with the Starks of Winterfell. Furthermore, Arya Stark will wed Elmar when the fighting is done, Catelyn will take two more (Big and Little Walder) as wards, and Robb will take yet another (Olyvar) as his squire. In exchange the Freys lend their swords to his cause and grant the northern army safe passage.[3]",
+                            
+                            "After the death of King Robert I Baratheon, Walder and Stevron are named among the nobles the new king, Joffrey I Baratheon, insists must do him homage or be named traitors to the realm.[23]",
+
+                            "Robb's army split at the Twins, each force heading to deal with a different Lannister army; Freys ride with both forces. Robb acknowledges that the Freys under Stevron's command fought bravely at the battle in the Whispering Wood; Perwyn fights there as part of Robb's battle guard. Ser Cleos and Tion fight on the other side of that battle under their cousin, Ser Jaime Lannister, and are captured along with him. Their father, Emmon Frey, also fights on the Lannister side of the war. Other Freys, including Ser Aenys, Jared, Hosteen, Danwell, Elmar, and Ronel Rivers are part of Lord Roose Bolton's army. Jared, Hosteen, Danwell, and Ronel are captured by Lord Tywin Lannister's forces during the battle on the Green Fork. Stevron attends the war council at Riverrun at which Robb Stark is declared King in the North.[17]"
+                        ]
+                    },
+                    "acok" : {                   
+                    "title": "A Clash of Kings",
+                    "id": "A_Clash_of_Kings",
+                    "content": [
+                            "Catelyn's wards Big Walder and Little Walder are welcomed to Winterfell, although they are not much to the liking of Bran Stark.[24] The cousins are spared by Theon Greyjoy during his capture of Winterfell[25] and later by Ramsay Snow during his sack of Winterfell.[26]",
+
+                            "Jared, Hosteen, Danwell and Ronel are briefly in captivity at Harrenhal before being ransomed by two other Freys (presumably Aenys and Elmar) soon after Arya's arrival, rejoining Lord Bolton's army.[27] Aenys participates in the fall of Harrenhal to Roose's host.[28]",
+
+                            "Many Freys, including Stevron, Ser Ryman, Black Walder, and Olyvar, join Robb in his campaign through the westerlands. Stevron dies after receiving a minor wound in the Battle of Oxcross, making his son Ryman the heir to the Twins.[29] In the storming of the Crag, Black Walder scales the walls of the castle along with Smalljon Umber.[4]",
+
+                            "Ser Perwyn accompanies Lady Catelyn on her voyage south to treat with kings Renly and Stannis Baratheon.[30] Martyn Rivers commands the outriders in the riverlands while Ser Brynden Tully is campaigning in the west with Robb Stark, King of the Trident. Martyn meets Catelyn's party when she nears Riverrun on her return trip.[31] Perwyn and Martyn fight in the Battle of the Fords.[32]",
+
+                            "To solidify wartime alliances, Roose Bolton marries one of Walder's granddaughters, Walda. After the fall of Winterfell and the Lannister victory over Stannis in the Battle of the Blackwater, the Freys in Lord Bolton's army at Harrenhal believe that Robb should bend the knee.[35] "
+                        ]
+                    },
+                    "asos": {
+                    "title": "A Storm of Swords",
+                    "id": "A_Storm_of_Swords",
+                    "content": [
+                            "At Riverrun, Catelyn frees Jaime from captivity in an effort to exchange him for her daughters, allowing his cousin, Cleos Frey, to accompany him along with her sworn sword, Brienne of Tarth.[36] On the journey to King's Landing, Cleos proves to be a useless fighter, and he is killed by outlaws near Maidenpool.[37]",
+                            
+                            "Robb Stark's marriage to Jeyne Westerling outrages House Frey and breaks their alliance. Ryman and Black Walder angrily depart Robb's army at the Crag,[4] as do Freys led by Perwyn and Martyn Rivers at Riverrun.[4] The Freys with Ser Frey at Harrenhal are also enraged,[35] but they remain with Lord Roose Bolton.[38]",
+
+                            "After the passing of Hoster Tully, the Lord Paramount of the Trident, Lame Lothar and Bastard Walder arrive at Riverrun with forty men from the Twins. Their father, Lord Walder, suggests that their new liege lord, Robb's uncle Edmure Tully, stand in Robb's place for the marriage alliance and marry Walder's daughter, Roslin.[8]",
+
+                            "While Robb leads his northmen and some rivermen from Riverrun to the Twins, Roose leads his own host north from Harrenhal. They are welcomed and given guest right by the Freys.[39] However, Walder has secretly negotiated with Lord Tywin Lannister, the Hand of the King to Joffrey I Baratheon, and Lord Bolton. They betray the Starks and Tullys at the Red Wedding, breaking guest right and slaughtering their former allies. Jinglebell, Benfrey, and Tytos are killed in the process.[40][41] Perwyn, Olyvar, and Alesander had been sent away beforehand, they being too friendly with the Starks.[40]",
+
+                            "The Freys are rewarded by the Iron Throne for killing King Robb and capturing Lord Edmure. Walder Frey's second son, Emmon, is given the lordship of a cadet branch, House Frey of Riverrun, when House Tully is divested of their seat.[42] Ryman and his son, Edwyn, lead two thousand men to join Ser Daven Lannister in the siege of Riverrun, while Black Walder resolves the siege of Seagard by threatening to kill Patrek Mallister.[43]",
+
+                            "Other nobles and the smallfolk scorn House Frey for breaking the sacred guest right. Petyr and Merrett are seized and hanged by the revived Lady Catelyn and her incarnation of the brotherhood without banners."
+                        ]
+                    },
+                    "affc": {
+                    "title": "A Feast for Crows",
+                    "id": "A_Feast_for_Crows",
+                    "content": [
+                            "To solidify the alliance with the Lannisters, Amerei Frey is paired with Lord Lancel Lannister,[44] and Daven Lannister is to wed another Frey.[18] Violating guest right has ruined the Freys' reputation, however, with even Jaime Lannister calling them treacherous.[45][46] House Frey influence in the riverlands increases further by way of the newly-created House Lannister of Darry, the household of which is provided by Lancel's wife, Ami. A score of Freys, including Danwell, Arwood, and Marissa, accompany her to Castle Darry. After \"the Hound's\" attack on Saltpans, Arwood and his kinsmen Harys and Donnel Haigh ride from Darry to investigate, finding Ser Quincy Cox hiding behind his walls.[47]",
+
+                            "Dead soldiers bearing the colors of House Frey have washed up on the Quiet Isle. According to the Elder Brother, they are buried next to their enemies of House Darry. It is hinted that the enmity between Frey and Darry is not new, but has significant history.[48]",
+
+                            "After arriving at Riverrun, Ser Jaime Lannister informs Emmon that although he has been granted Riverrun, Emmon is not the liege of the riverlords. The Freys instead owe allegiance to Lord Petyr Baelish, head of House Baelish of Harrenhal and Lord Paramount of the Trident.[18] Jaime removes Ryman from command of the siege of Riverrun in favor of his son Edwyn.[45] When informing Ser Brynden Tully of what will happen if he does not surrender, Jaime says he will send the Freys as a second wave, after the other rivermen but before the westermen. On his journey back to the Twins, Ryman is hanged by outlaws near Fairmarket. Ryman's death leaves his son Edwyn as heir to the Crossing.[2]",
+
+                            "According to Queen Cersei Lannister, Lord Wyman Manderly is on the verge of allying himself with the Boltons after he agrees to marry both of his granddaughters to members of House Frey and open his port of White Harbor to Lannister shipping.[49]"
+                        ]
+                    },
+                    "adwd": {
+                    "title": "A Dance with Dragons",
+                    "id": "A_Dance_with_Dragons",
+                    "content": [
+                            "Rhaegar, Jared, and Symond arrive in White Harbor to solidify the alliance between Houses Frey and Manderly.[50] The Manderlys only pretend to accept the peace of King Tommen I Baratheon,[51] however, and the Frey envoys disappear while traveling from White Harbor to Barrowton.[52] Lord Wyman Manderly pleads ignorance about their fate.[53]",
+
+                            "Big Walder and Little Walder remain squires of Ramsay Bolton at the Dreadfort.[54] After the siege of Moat Cailin is resolved by Theon Greyjoy and Ramsay, they are joined by Lord Roose Bolton's northmen and Ser Aenys and Ser Hosteen's Freys, who number between fourteen hundred[55] and two thousand,[56] to help Roose in pacifying the north. Roose moves the wedding of Ramsay and \"Arya Stark\" from Barrowton to Winterfell.[52]",
+
+                            "While quartered at Winterfell during a blizzard, which the Freys are ill prepared for,[57] tensions rise in Roose's army when the Freys place the blame for their missing envoys on Wyman.[53] A brawl results in the deaths of several men when Wyman insults the Freys after Little Walder, the brother of Roose's wife Walda, is found dead in the snow. To relieve the pressure, Roose sends Aenys and Hosteen as a vanguard against Stannis,[58] who is encamped at a crofters' village in the wolfswood.[59]"
+                        ]
+                    },
+                    "twow": {
+                    "title": "The Winds of Winter",
+                    "id": "The_Winds_of_Winter",
+                    "content": [
+                            "The Frey force at Winterfell falls prey to a trap set by Mors Umber outside the walls, killing Aenys. This leaves Hosteen, who loses his horse in the trap, in command of the force.[60]"
+                        ]
+                    }
+                  }
+                }
+              },
+            "houseInfo": {
+                "type": "house",
+                "content": {
+                    "coatOfArms": {
+                        "title": "Coat of Arms",
+                        "content": ["Two blue towers, united by a bridge, on a silver-grey field", "(Cendrée, a bridge azure, at either end a tower of the same)"],
+                        "image": "House_Frey"
+                    },
+                    "seat": {
+                        "title": "Seat",
+                        "content": ["The Twins[1]"]
+                    },
+                    "head": {
+                        "title": "Head",
+                        "content": ["Lord Walder Frey[1]"]
+                    },
+                    "region": {
+                        "title": "Region",
+                        "content": ["Riverlands"]
+                    },
+                    "title": {
+                        "title": "Title",
+                        "content": ["Lord of the Crossing[1]"]
+                    },
+                    "heir": {
+                        "title": "Heir",
+                        "content": ["Edwyn Frey[2]"]
+                    },
+                    "overlords": {
+                        "title": "Overlords",
+                        "content": ["House Tully (AGOT)", "House Baelish (ADWD"]
+                    },
+                    "cadetBranch": {
+                        "title": "Cadet branch",
+                        "content": ["House Frey of Riverrun"]
+                    },
+                    "founded": {
+                        "title": "Founded",
+                        "content": ["Around 300 BC[3]"]
+                    }
+                }
+           }
+        },
+         {
+            "id": "House_Lannister",
+            "title": "House Lannister",
+            "content": {
+                "intro": {
+                    "title": "Intro",
+                    "id": "Intro",
+                    "content": [
+                        "House Lannister of Casterly Rock is one of the Great Houses of Seven Kingdoms, and the principal house of the westerlands. Their seat is Casterly Rock, though another branch exists in nearby Lannisport. Their sigil is a golden lion on a field of crimson.[1] Their official motto is \"Hear Me Roar!\" However, their unofficial motto, equally well known, is \"A Lannister always pays his debts.\"[2][3] The Warden of the West is a Lannister by tradition. Their gold mines have made the Lannisters the wealthiest of the Great Houses.[4]",
+
+                        "Through the female line the Lannisters boast of descent from Lann the Clever, the legendary trickster of the Age of Heroes who tricked the members of House Casterly into giving him Casterly Rock[5] during the era of the First Men. Later marrying Andals,[6] the Lannisters reigned as Kings of the Rock until the Targaryen conquest, when they were defeated at the Field of Fire. King Loren I Lannister's surrender to Aegon the Conqueror allowed the Lannisters to remain the liege lords of the westerlands.[7]",
+                    
+                        "The current Lord of Casterly Rock is Tywin Lannister, whose daughter Cersei is the queen of King Robert I Baratheon, while her twin, Ser Jaime, is a knight of Robert's Kingsguard. Tywin's youngest child is Tyrion, a dwarf."
+                    ]
+                },
+                "traits": {
+                    "title": "Traits",
+                    "id": "Traits",
+                    "content": [
+                        "Lannisters have a reputation for being comely[8] with fair, golden hair and emerald green eyes.[9][10]",
+                        
+                        "Lannisters are known for wearing crimson cloaks,[11] and their household guard are known as the red cloaks.[12]"
+                ]
+                },  
+                "history": {
+                    "title": "History",
+                    "id": "History",
+                    "content": {
+                        "firstMenKings": {
+                            "title": "First Men Kings",
+                            "id": "First_Men_Kings",
+                            "content": [
+                                "The Lannisters suddenly appear as First Men in historical records of the Age of Heroes, ruling large portions of the westerlands from Casterly Rock just as the Casterlys vanish from the chronicles. They claim descent from Lann the Clever, the legendary figure who tricked the Casterlys from Casterly Rock.[6]",
+                                
+                                "According to a semi-canon source, members of lesser branches of the family left Casterly Rock and developed a nearby village into the city of Lannisport, forming House Lannister of Lannisport. Meanwhile, the Lannisters of Casterly Rock grew to become Kings of the Rock.[13] The first known King of the Rock was Loreon I Lannister, although Lann the Clever has posthumously been called by the same title. Loreon gained House Reyne as his vassals and defeated the Hooded King, Morgon Banefort.[6]"
+                            ]
+                        },
+                        "andalKings": {
+                            "title": "Andal Kings",
+                            "id": "Andal_Kings",
+                            "content": [
+                                "During the coming of the Andals to Westeros, King Tybolt Lannister initially fought the invading Andal warlords and adventurers who ventured into the westerlands, but Kings Tyrion III and Gerold eventually took a policy of arranging marriages between them and the daughters of the local First Men houses. They also took Andal sons and daughters as wards and fosterlings at Casterly Rock to prevent betrayals such as those that had happened in the Vale. In time, the Lannister kings also wed their children to Andals, and when King Gerold III died without male issue, a council crowned the Andal husband of Gerold's only daughter, Ser Joffrey Lydden, who took the Lannister name. Thus the Lannisters became an Andal house, though their First Men name lived on.[6]",
+                                
+                                "Cerion extended his rule to the Golden Tooth, and Tommen I gained Fair Isle. Lancel I and Lancel IV fell while campaigning against the Kings of the Reach from House Gardener, while Gerold the Great raided the Iron Islands.[6]",
+                                
+                                "Hagon Hoare, King of the Iron Islands, allowed his mother, the dowager queen Lelia Lannister, to be mutilated by the Shrike. Her nephew, the King of the Rock, began a war which left the Iron Islands impoverished.[14]",
+
+                                "House Lannister possessed an ancestral Valyrian steel greatsword called Brightroar, but it was lost when King Tommen II Lannister went on a quest to Valyria and never returned.[15] The Lannisters have been looking for a replacement ever since, though they have not stopped looking for their own lost ancestral sword.[15]"
+                            ]
+                        },
+                        "targaryenConquest": {
+                            "title": "Targaryen Conquest",
+                            "id": "Targaryen_Conquest",
+                            "content": [
+                                "When the Wars of Conquest began and Aegon the Conqueror swept through Westeros, Loren I, King of the Rock, sided with Mern IX Gardener, King of the Reach, against the Targaryens. The host of the Two Kings numbered fifty-five thousand men, five thousand of them mounted knights, while the Targaryens had only ten thousand men, many of uncertain loyalty and reliability. The two armies met in the plains of the Reach south of the Blackwater Rush. With their smaller force severely weakened and in danger of routing, Aegon and his sisters, Visenya and Rhaenys, each deployed their three dragons, the only time this happened during Aegon's Conquest. Their combined fires scoured the battlefield, immolating more than four thousand men (including King Mern and his heirs) in the Field of Fire.[16]",
+                                
+                                "After he was captured the following day, King Loren the Last bent the knee to Aegon and was allowed to remain Lord of Casterly Rock. Loren rose as the first Warden of the West.[17] Queen Visenya is said to have been grateful that Loren rode to war instead of seeking refuge in his castle, as Casterly Rock may have withstood even dragonflame.[18]",
+                                
+                                "To encourage greater ties throughout the Seven Kingdoms, House Targaryen brokered marriages between the new vassals sworn to the Iron Throne. The eldest son of Lord Loren Lannister, for instance, was wed to a girl from House Redwyne.[19]"
+                            ]
+                        },
+                        "firstCenturyOfTargaryenRule": {
+                            "title": "First Century of Targaryen Rule",
+                            "id": "First_Century_of_Targaryen_Rule",
+                            "content": [
+                                "While the great wealth of Casterly Rock was untouched by the Targaryen Conquest, the Lannisters were reduced from kings to lords, and they did not have close ties to the new Targaryen kings. The Lannisters had little presence at the royal court for the first century of Targaryen rule, and no Lannister is mentioned as a member of the small council until the lead-up to the Dance of the Dragons. During this first century, the noble houses with the closest political connections to the Targaryen dynasty were the Velaryons, Baratheons, Tullys, Hightowers, and Arryns.[20]",
+                                
+                                "By the time of the Faith Militant uprising, Lyman Lannister was Lord of Casterly Rock, and was wed to Lady Jocasta Tarbeck. Lord Lyman resented the Lannisters' lack of influence under the new Targaryen regime, but could do little about it. When the conflict began in 42 AC, Prince Aegon Targaryen and his sister-wife, Princess Rhaena were in the middle of a royal progress through the westerlands, and were briefly trapped at Crakehall by Poor Fellows, until Lord Lyman offered the couple refuge at Casterly Rock. Lyman refused to surrender them to King Maegor I Targaryen, although he declined to support Aegon's claim militarily. A shrewd ruler, Lyman carefully weighed his actions and played both sides: when young Aegon the Uncrowned eventually raised a rebel army to march against his uncle Maegor, Lyman's bastard son Ser Tyler Hill led five hundred men from Lannisport to join his forces - thus allowing Lyman himself to plausibly deny that he had directly ordered a force of westermen to join the rebels. As it happened, Aegon was slain by Maegor in the Battle Beneath the Gods Eye in 43 AC, though Tyler Hill survived.[21]",
+                                
+                                "In the second half of Maegor's reign the surviving Faith Militant rebounded, now led by Ser Joffrey Doggett, leader of Lannisport chapter of the Warrior's Sons. They could no longer face Maegor in open battle but resorted to ambush and harassing his forces. By late 45 AC, Joffrey ruled the hill country north of the Golden Tooth in all but name. Maegor also later sent the son of Jeyne Westerling to be Lyman's ward.[21]",
+                                
+                                "Throughout all this the Lannisters took no direct action in favor of one side or the other. At the very end of the conflict in 48 AC, Maegor's nephew Jaehaerys I Targaryen declared against him, and after his brutal reign the Great Houses could finally stand him no longer. First the Velaryons declared for Jaehaerys, rapidly followed by most of the Great Houses including the Lannisters. Abandoned by his supporters and with rebel armies advancing on King's Landing unopposed, Maegor ran out of options, and was found dead on the Iron Throne by the time the rebels arrived.[21]",
+                                
+                                "Lord Lyman led three hundred knights to King's Landing to attend the famed Golden Wedding in 49 AC, a grand event which by extension celebrated Jaehaerys's succession to the throne and reconciliation with the Great Houses.[22] The Lannisters hosted Rhaena and her husband, Androw Farman, for a time after they were sent away from Fair Isle. Rhaena eventually departed, however, after determining that Lyman and his wife Lady Jocasta Lannister coveted her dragon eggs, hoping to become the \"second house\" in the realm (displacing the Targaryens' current favorites, the Velaryons and Baratheons).[23] King Jaehaerys never fully trusted Lyman either, accurately judging that he was an ambitious man who wanted to increase Lannister power by edging his way into the Targaryens' inner circle. At multiple points Jaehaerys therefore passed over Lyman for several royal offices and favors: he decided not to name him master of coin in 50 AC, or to name him as the new Hand of the King in 54 AC, or to consider him as master of coin again in 59 AC upon the death of Rego Draz.[24] Lyman and many of his bannermen died months later in 59 AC from the Shivers plague.[8]",
+                                
+                                "In 80 AC, Jaehaerys once again passed over the Lannisters, this time for a royal marriage between his younger daughter Princess Daella and young Tymond Lannister, the new heir to Casterly Rock. This had more to do with the fact, however, that Daella personally disliked Tymond, for he was a noted womanizer and overly fond of wine. Nonetheless Jaehaerys indulged Daella and let her marry whoever she chose instead of insisting on a political marriage alliance, and ultimately she chose to wed Lord Rodrik Arryn.[8]",
+                                
+                                "Twenty years later, Lord Tymond Lannister and three hundred westermen attended the Great Council of 101 AC at Harrenhal. Despite the fact that Jaehaerys never granted the Lannisters any royal favors, like the overwhelming majority of lords at the council they voted in favor of Jaehaerys's preferred candidate Viserys (son of his second son) over Laenor Velaryon (Jaehaerys's grandson through his first son's daughter). It was said that a major factor in the decision for many lords was that male proximity predominate in the inheritance, regardless of their current political allegiance.[25] Ser Jason and Ser Tyland Lannister, twin knights, wooed Rhaenyra Targaryen during the princess's visit to Casterly Rock in 112 AC, but without success.[25]"
+                            ]
+                        },
+                        "theDanceAndRegency": {
+                            "title": "The Dance and Regency",
+                            "id": "The_Dance_and_Regency",
+                            "content": [
+                                "As King Viserys I Targaryen's reign continued, the Lannisters aligned with the emerging political faction led by House Hightower, specifically Viserys's second wife Queen Alicent Hightower. While the Targaryens treated the Hightowers with respect due to their connections to the leadership of the Faith of the Seven in Oldtown, they were not as influential as the Velaryons or Baratheons and rarely served on the small council in the first century of Targaryen rule. Both the Hightowers and Lannisters ruled powerful port cities on the west coast of Westeros, and increasingly came to resent the Velaryons and their allies who were then pre-eminent at the royal court. Over time these two factions coalesced into \"the greens\" (the Hightowers, Lannisters, and their allies) led by Queen Alicent, and \"the blacks\" (the Velaryons and their allies) led by Viserys's eldest child, Princess Rhaenyra. ",
+                                
+                                "In the third and last decade of Viserys I's rule, the Hightowers came back into power on the small council after the mysterious death of Lord Lyonel Strong in 120 AC. Alicent's father Ser Otto Hightower was brought back to replace him as Hand of the King, and he spent the next decade stacking the small council with green loyalists. Among them, Ser Tyland Lannister became the new master of ships.[26]",
+                                
+                                "Upon Viserys I's death, a civil war broke out between the two rival branches of House Targaryen, known as the Dance of the Dragons. Lord Jason Lannister declared for Alicent's eldest son, Aegon II Targaryen, while his twin brother Ser Tyland (who had been master of ships) was named as master of coin after the removal of Lord Lyman Beesbury (the only member of the small council who didn't support Aegon II). Tyland seized the royal treasury, swelled by years of peace and prosperity under Viserys, and divided the Crown's gold into four parts. One part was entrusted to the care of the Iron Bank of Braavos for safekeeping, another was sent under strong guard to Casterly Rock, and a third went to Oldtown. The remaining wealth was used by the greens for bribes and gifts and hiring sellswords.[26]",
+                                
+                                "The bulk of Rhaenyra's supporters in mainland Westeros were in the North, the Vale, and the riverlands, and they began amassing their forces at Harrenhal for an eventual strike on King's Landing. To counter this, the main Lannister army invaded the riverlands from the west, while Prince Aemond Targaryen's forces from King's Landing invaded the riverlands from the south, hoping to catch their enemy on two fronts. As the war progressed, Lord Jason was killed by Longleaf the Lionslayer in the Battle of the Red Fork,[27] and the remaining Lannister host under first Ser Adrian Tarbeck and then Lord Humfrey Lefford was then shattered in the Battle by the Lakeshore, the bloodiest battle of the civil war.[28]",
+                                
+                                "After the fall of King's Landing, Daemon and Rhaenyra executed several members of Aegon II's small council, but spared Tyland - because they hoped they could force him to confess where he sent the Crown's treasury. Tyland was given over to the torturers, but despite being blinded and gelded, even after months of torture he refused to give up his secret.[20] Rhaenyra's husband, Prince Daemon Targaryen, suggested giving Casterly Rock to Hugh Hammer, which horrified Lord Corlys Velaryon, the Hand of the Queen.[28]",
+                                
+                                "With Casterly Rock in disarray, Dalton Greyjoy, Lord of the Iron Islands, attacked the westerlands to support Rhaenyra's blacks. Lannisport was sacked by the ironborn, but they were unable to conquer the Rock from Jason's widow, Lady Johanna Lannister, who was ruling on behalf of her four-year-old son, Lord Loreon Lannister.[27]",
+                                
+                                "Near the end of the war, Aegon II retook King's Landing, where they freed the mutilated Tyland - who continued to serve on Aegon II's small council until his death. Many assumed that Tyland would have gone insane from his extensive torture, but surprisingly he retained all his wits and cunning - nor did his blindness affect his shrewd mind. At the end of the war he was sent to the Free Cities to try to hire new sellsword armies, but the final defeat of Aegon II's armies and his death by poisoning then ended the war.[29]",
+                                
+                                "Ser Tyland returned to Westeros, and was named the new Hand of the King to Rhaenyra's eldest surviving son, King Aegon III Targaryen, whose execution Tyland had once proposed. Tyland had an odd sense of honor, in that he only felt compelled to obey oaths he had personally sworn, not those made by his ancestors or his allies, but once he had personally sworn an oath he would keep it even to his enemies. Ser Tyland served loyally and ably as Hand early in the regency of Aegon III, trying to hold the realm together after the devastation of the war and the harsh winter that followed. Both Tyland and his sister-in-law Lady Johanna (current regent for House Lannister) attended Aegon III's coronation, and his wedding to Aegon II's daughter, Princess Jaehaera Targaryen.[30]",
+                                
+                                "Although the Dance of the Dragons had ended with Aegon III on the Iron Throne, Dalton refused to make peace with the westerlands. Lady Johanna won a victory over the ironborn at Kayce, but her plan to recover Fair Isle ended with the deaths of Ser Erwin Lannister and Lords Prester and Tarbeck.[31] Lord Unwin Peake, Tyland's successor as Aegon's Hand, tasked Lord Alyn Velaryon with bringing peace to the west. Dalton was killed by Tess, one of his many salt wives, however, and the ironmen began to retreat. Johanna presented Alyn Oakenfist with a golden seahorse when his fleet finally arrived in the west, but the admiral declined her suggestion to attack the Iron Islands.[32]",
+                                
+                                "Johanna took advantage of the struggle for power in the Iron Islands by having Ser Leo Costayne invade the archipelago with a Lannister army. In return for conquering the isles for young Lord Loreon, Leo hoped to win Johanna's hand. The Lannister army eventually faltered and Leo was slain on Great Wyk, but hundreds of ironborn ships and villages were destroyed during the invasion. Many ironborn nobles were killed in the campaign, and Johanna had the captured Rodrik Greyjoy gelded and made him a fool for Loreon.[33]",
+                                
+                                "Meanwhile, after the Dance ended in 131 AC Tyland Lannister was heavily involved in dealing with the outbreak of the Daughters' War in the Free Cities, and the complicated political maneuverings that followed as the multi-sided war spilled over into the narrow sea and involved the fleets of Westeros. Two years into the regency of Aegon III, however, Westeros was further devastated by the outbreak of the Winter Fever. While it never spread to the west coasts of the continent, King's Landing was hard hit. Ser Tyland ordered a quarantine and was locked inside the city along with the rest of its inhabitants, where he was one of the last to die from the plague in 133 AC."
+                            ]
+                        },
+                        "rebellionsAndUprisings": {
+                            "title": "Rebellions and Uprisings",
+                            "id": "Rebellions_and_Uprisings",
+                            "content": [
+                                "Lord Damon Lannister remained loyal to the Targaryens in 196 AC during the First Blackfyre Rebellion, but he was defeated by Ser Quentyn Ball outside the gates of Lannisport.[20]",
+                                
+                                "Damon and his heir, Ser Tybolt Lannister, participated in the tourney at Ashford Meadow. Damon was defeated in the first tilt by Lord Leo \"Longthorn\" Tyrell, while his son defeated his opponent to become a champion.[34] Tybolt inherited the lordship from Damon when the latter died of the Great Spring Sickness.[35]",
+                                
+                                "Gerold Lannister was a suitor to Rohanne Webber, Lady of Coldmoat, but much preferred to remain at Casterly Rock with his brother Tybolt.[36] When Lord Dagon Greyjoy raided the western coast during the early reign of Aerys I Targaryen, House Lannister built ships to fight him at sea.[35] Gerold succeeded as lord after the deaths of Lord Tybolt and his daughter, Lady Cerelle Lannister, under mysterious circumstances, but the new lord became known as Gerold the Golden for his prosperous rule.[37] ",
+                                
+                                "Gerold's second wife, Lady Rohanne, disappeared in 230 AC, and his twin sons, Ser Tywald and Ser Tion, were killed in the Peake Uprising in 233 AC and the Fourth Blackfyre Rebellion in 236 AC, respectively. Tion's widow, Ellyn Reyne, bickered with Jeyne Marbrand, the wife of Gerold's new heir, Tytos Lannister, and Ellyn eventually remarried to Walderan Tarbeck, Lord of Tarbeck Hall.[37]",
+                                
+                                "Tytos became lord after his father Gerold's death in 244 AC. Although a kind man, Tytos was a weak ruler, and corruption and disloyalty spread among his bannermen, including Houses Reyne and Tarbeck. On three occasions King Aegon V Targaryen sent knights to bring order to the westerlands.[37] Tytos's younger brother, Ser Jason Lannister, was killed in the War of the Ninepenny Kings in 260 AC, but Tytos's older sons—Tywin, Kevan, and Tygett—won honor for their House in the war.[37]",
+                                
+                                "Ser Tywin sought to restore House Lannister to their former glory, so he crushed the Reyne-Tarbeck revolt in 261 AC.[37]"
+                            ]
+                        },
+                        "tywin": {
+                            "title": "Tywin",
+                            "id": "Tywin",
+                            "content": [
+                                "When Aerys II Targaryen succeeded to the Iron Throne in 262 AC, his friend, the twenty-year-old Ser Tywin Lannister, became the youngest man to serve as Hand of the King. Tywin then became Lord of Casterly Rock after the death of Tytos Lannister in 267 AC.[37] Like his grandfather Gerold, Tywin became a skilled steward and ruler.[38]",
+                                
+                                "When Aerys was held hostage by Lord Denys Darklyn, Tywin's conservative approach took six months to resolve the Defiance of Duskendale in 277 AC. This instigated Aerys's paranoia and drove a wedge between the two, along with the king's lusting after Joanna Lannister, Tywin's wife, cousin, and trusted confidante.[38]",
+                                
+                                "Despite Tywin's attempts to ensure a strong legacy, life at Casterly Rock was dysfunctional at best. His twin children, Cersei and Jaime, began an incestuous relationship at an early age.[39] Tywin was never a jovial man, but when Joanna died birthing their third child, Tyrion, he was much saddened.[40] His brother, Kevan, became his right hand and their sister, Genna, took a maternal role over the children. His second brother, Tygett, died of a pox,[41] and their youngest brother, Gerion, sailed off on a journey to Valyria, never to be seen again.[42]",
+                                
+                                "Cersei, while a young maid, visited a woods witch called Maggy the Frog, who shared portents of Cersei's future that planted seeds of her paranoia.[43] Cersei possibly murdered her friend Melara Hetherspoon, who had witnessed the prophecy.[44] Tyrion, when thirteen years old, was out with Jaime when he met and married a girl named Tysha, a match which was quickly and cruelly ended by their father.[3] Tywin offered Tyrion to Houses Martell, Hightower, Royce, Florent and Tully, but he was rejected by all.[45] Jaime was a promising young knight, dubbed by Ser Arthur Dayne. Tywin was devastated when Jaime joined King Aery's Kingsguard, breaking off a betrothal to Lysa Tully. Upon this action (which he perceived as Aerys robbing him of his heir),[46] coupled with the Mad King's refusal to wed Prince Rhaegar Targaryen to Cersei,[47] Tywin resigned the Handship.[37] This flew in the face of Jaime's plan, which was to be closer to Cersei; he was kept in King's Landing while Cersei returned to Casterly Rock.[48]"
+                            ]
+                        },
+                        "robertsRebellion": {
+                            "title": "Robert's Rebellion",
+                            "id": "Robert's_Rebellion",
+                            "content": [
+                                "The Lannisters stayed neutral for the majority of Robert's Rebellion. Only after the killing of Rhaegar Targaryen, Prince of Dragonstone, by Robert Baratheon, Lord of Storm's End, in the Battle of the Trident did Lord Tywin Lannister bestir himself from Casterly Rock.[49]",
+                                
+                                "Tywin led an army of twelve thousand to King's Landing, where he professed loyalty to House Targaryen.[49] Although Lord Varys objected, Grand Maester Pycelle, a Lannister loyalist, convinced King Aerys II Targaryen to open the capital's gates. Tywin betrayed the Targaryens, however, and had his host conquer the city for Robert. During the ensuing Sack of King's Landing, Ser Jaime Lannister of the Kingsguard slew Aerys to avert the Mad King's wildfire plot.[50] Meanwhile, Ser Gregor Clegane and Ser Amory Lorch, two of Tywin's knights, killed Rhaegar's wife, Elia Martell, and children[51] to prove House Lannister's commitment to Robert's cause.[49] The bodies of Princess Rhaenys and Prince Aegon were wrapped in crimson cloaks to hide their blood.[52][53]",
+                                
+                                "Afterwards, Tywin's daughter Cersei was wed to the new king, Robert I. Tya Lannister had been the last Lannister to marry a member of House Baratheon, Gowen Baratheon, before the marriage of Robert and Cersei.[52]"
+                            ]
+                        },
+                        "baratheonEra": {
+                            "title": "Baratheon Era",
+                            "id": "Baratheon_Era",
+                            "content": [
+                                "The royal marriage and the increasing amount of gold King Robert I Baratheon owes to Lord Tywin Lannister have only increased Lannister power.[54] Much of Tywin's energy is directed inward, ensuring all of his relatives do their part to uphold the family name.[55]",
+                                
+                                "On behalf of Balon Greyjoy, Lord of the Iron Islands, Euron and Victarion Greyjoy began Greyjoy's Rebellion with the burning of the Lannister fleet.[56] Tywin joined Robert and Eddard Stark, Warden of the West, in invading the Iron Islands, however, and the rebellion was defeated.[57]",
+                                
+                                "Tywin attended the tourney on Prince Joffrey's name day in King's Landing. Queen Cersei Lannister and her children accompanied Tywin during his return to Casterly Rock; en route they were informed of the death of Jon Arryn, Robert's Hand of the King.[58]"
+                            ]
+                        }
+                    }
+                },
+                "recentEvents": {
+                    "title": "Recent Events",
+                    "id": "Recent_Events",
+                    "content": {
+                    "agot": {
+                        "title": "A Game of Thrones",
+                        "id": "A_Game_of_Thrones",
+                        "content": [
+                            "King Robert I Baratheon travels to Winterfell to ask his childhood friend, Lord Eddard Stark, to succeed Lord Jon Arryn as Hand of the King. The king is accompanied by Queen Cersei Lannister, their children, and Cersei's twin, Ser Jaime of the Kingsguard.[59] Lysa Arryn, the sister of Eddard's wife Catelyn, sends a letter accusing Cersei and her family of having murdered Jon.[60] One of Eddard's sons, Bran Stark, witnesses the twins fornicating in the First Keep, and Jaime throws the boy from the tower.[61] Bran survives but is left comatose.[62]",
+                            
+                            "King Robert names Jaime the new Warden of the East instead of Jon's young son, Lord Robert Arryn.[49] Two of Cersei's cousins, Lancel Lannister and Tyrek Lannister, attend Robert as squires.[63] Tyrion Lannister, the younger brother of Cersei and Jaime, visits the Night's Watch at Castle Black.[64]",
+                            
+                            "An assassin attempts to kill Bran with a Valyrian steel dagger.[65] His mother, Catelyn, travels to King's Landing, where her childhood friend, Lord Petyr Baelish, informs her he had lost the dagger to Tyrion.[66] Catelyn later captures Tyrion at the crossroads inn,[67] although he denies any involvement in attacking Bran.[68] Instead of Winterfell, Catelyn brings Tyrion to the Eyrie, where Lysa accuses him of having murdered Jon Arryn.[69] Tyrion wins his freedom through Bronn's victory in trial by combat.[70] While traveling the high road through the Vale of Arryn, Tyrion gains the mountain clans as his allies.[3]",
+                            
+                            "Meanwhile, Tyrion's capture by Catelyn prompted his father, Lord Tywin Lannister, to send Ser Gregor Clegane into the riverlands in an attempt to draw her husband, Lord Stark, into the field, hoping to capture him for an exchange.[71][72] Eddard, however, is waylaid on the streets of King's Landing by an angry Jaime and is injured in the melee.[73] Jaime rides for Casterly Rock,[74] and Eddard sends Lord Beric Dondarrion to bring Gregor to justice.[11]",
+                            
+                            "Eddard discovers that Cersei's children—Prince Joffrey, Princess Myrcella, and Prince Tommen Baratheon—were fathered not by King Robert, but by the queen's brother, Jaime.[75][52] Cersei fears for her children if Eddard informs Robert of her children's parentage. She has her cousin Lancel, Robert's squire, supply the king with strongwine during a boar hunt,[76][77] resulting in Robert receiving a mortal wound in the kingswood.[78] Eddard intends for Stannis Baratheon to succeed his elder brother Robert instead of King Joffrey,[78] Cersei refuses Eddard's warning to flee King's Landing,[52] and she has Eddard imprisoned with the aid of Petyr Baelish and the gold cloaks.[79] Tywin is named Hand of the King to Joffrey and Jaime, despite his absence, is named Lord Commander of the Kingsguard, replacing Ser Barristan Selmy.[80]",
+                            
+                            "War breaks out in the Seven Kingdoms, with Jaime winning victories over the river lords at the Golden Tooth and Riverrun.[2] Meanwhile, Tywin and his brother, Ser Kevan Lannister, capture several castles in the riverlands.[2] Eddard's son, Robb Stark, marches south with a host of northmen to rescue his father, however.[81]",
+                            
+                            "Tywin repels one Stark army under Lord Roose Bolton in the battle on the Green Fork, during which Tyrion and his clansmen participate.[82] Roose's force turns out to have been a feint, however. Unexpectedly aided by House Frey,[83] Robb captures Jaime in the Whispering Wood[84] and breaks the Lannister siege of Riverrun in the Battle of the Camps.[71]",
+                            
+                            "The small council intends for Eddard to take the black if he admits to treason. Joffrey orders the execution of Lord Stark, however, ruining any chance of peace.[85] With the captured Jaime lost to him, Tywin orders Tyrion to act as Hand in the capital while Tywin campaigns in the riverlands.[71]"
+                        ]
+                    },
+                    "acok" : {                   
+                        "title": "A Clash of Kings",
+                        "id": "A_Clash_of_Kings",
+                        "content": [
+                            "Robert I Baratheon's brothers, Stannis and Renly, each contest Joffrey I Baratheon's right to the Iron Throne, while Robb Stark has been named King in the North and King of the Trident. The conflict becomes known as the War of the Five Kings. Lord Tywin Lannister encamps at Harrenhal so that he can defend King's Landing from attack.[86] Ser Stafford Lannister begins to train another Lannister army in the westerlands.[10] Tywin forbade Tyrion Lannister from bringing a prostitute, Shae, to the capital, but Tyrion brings her anyway.[87] ",
+                            
+                            "Tyrion, as acting Hand of the King, and Cersei, as Joffrey's regent, compete for influence in King's Landing,[9] with Tyrion constantly outmaneuvering her. Desperate for allies, Tyrion makes moves to ally with House Martell. Part of this involves betrothing Joffrey's sister, Princess Myrcella Baratheon, to Prince Trystane Martell. After her ship leaves port, the royal party is caught up in the riot of King's Landing provoked by King Joffrey.[88] Tyrek Lannister has wed to Ermesande Hayford so that the Lannisters can claim her lands,[9][12] but Tyrek disappears during the riot.[88]",
+                            
+                            "Ser Jaime Lannister languishes in the dungeon of Riverrun, despite Tyrion's attempt to free him.[89] Cersei replaces her twin in her bed with their cousin, Ser Lancel Lannister.[77] Tyrion blackmails Lancel into spying for him.[77] Cersei threatens Alayaya, whom she thinks is Tyrion's whore, and Tyrion threatens Cersei's children in return.[90]",
+                            
+                            "Robb Stark bypasses the Golden Tooth, destroys Stafford's army in the Battle of Oxcross,[91][91] and raids the westerlands.[89] After Renly is assassinated and Stannis begins to besiege Storm's End, Tywin's army marches from Harrenhal to confront Robb.[92] The westermen are prevented access to their homelands across the Red Fork by Ser Edmure Tully, who is victorious in the Battle of the Fords.[93] Stannis captures Storm's End sooner than expected and marches on King's Landing.[93][94]",
+                            
+                            
+                            "Tywin is close enough to King's Landing to defend the city when he hears of Stannis's impending attack. Due to Tywin's presence, Tyrion's defensive preparations, and a new alliance with House Tyrell negotiated by Lord Petyr Baelish, the Lannisters are able to defeat Stannis in the Battle of the Blackwater,[95][96] despite nearly suffering a rout of the gold cloaks when Cersei withdraws King Joffrey from the city walls.[97] Podrick Payne saves Tyrion from Ser Mandon Moore during the battle.[98]",
+                            
+                            "Following the Blackwater, most of Stannis's bannermen declare for Joffrey, and Lord Tywin takes up rule as Hand in his own right. A wounded Lancel receives Darry, forming House Lannister of Darry.[96]",
+                            
+                            "Within the dungeon of Riverrun, Jaime admits to Catelyn Stark that he had thrown Bran Stark from the First Keep, but he denies having sent the catspaw.[99]"
+                        ]
+                    },
+                    "asos": {
+                        "title": "A Storm of Swords",
+                        "id": "A_Storm_of_Swords",
+                        "content": [
+                            "Catelyn Stark, having heard of the supposed deaths of two of her sons Bran and Rickon at the hands of the turncloak Theon Greyjoy, releases Jaime from captivity at Riverrun in an attempt to covertly exchange him for her daughters, Sansa and Arya.[99][100] Unknown to most is that Arya escaped King's Landing long ago.[101] Brienne of Tarth and Ser Cleos Frey, the son of Jaime's aunt Genna, escort Jaime toward King's Landing.[100] After sending his horsemen to search the riverlands for Jaime, Lord Rickard Karstark murders two of Robb Stark's captives, Jaime's cousins Tion Frey and Willem Lannister.[102] Cleos is eventually killed by outlaws near Maidenpool and Brienne and Jaime are captured by the Brave Companions. Their leader, Vargo Hoat, has Zollo chop off Jaime's sword hand.[39] ",
+                            
+                            "Tywin refuses to appoint Tyrion as heir to Casterly Rock,[55] instead making him master of coin[45] and wedding him to Sansa for her claim to Winterfell and denying House Tyrell the chance to wed her to Willas.[103] Tywin's brother and right hand, Ser Kevan Lannister, is named master of laws.[104] Tywin also betroths Joffrey to Margaery Tyrell, and tries to re-wed Cersei, this time to Willas, but Lord Mace Tyrell refuses under pressure from his mother, Olenna.[15] Cersei is shunned from the small council, and Tywin disregards her regency over Joffrey, insisting she follow her father's commands.[45] Tywin restores the title of Warden of the East to House Arryn[45] and also reinstates Pycelle as Grand Maester when he hears the Citadel plans to grant the title to a Tyrell uncle, Gormon Tyrell.[105]",
+                            
+                            "When Tywin discovers that Robb Stark has wed Jeyne Westerling, a daughter of one of his minor bannermen, Lord Gawen Westerling, instead of a daughter of Lord Walder Frey, Tywin begins plotting with Jeyne's mother, Sybell Spicer, the slighted Lord Frey, and the opportunistic Lord Roose Bolton.[45][51][106] The Brave Companions bring Jaime to Harrenhal, which is held by Lord Bolton and Ser Aenys Frey. Instead of returning Jaime to Lord Edmure Tully at Riverrun, Roose decides to send his captive on to King's Landing while leaving Brienne with Vargo.[50] Jaime returns to Harrenhal in time to rescue Brienne from Harrenhal's bear pit.[46] Steelshanks Walton escorts them to the capital and Qyburn treats Jaime's stump.[46]",
+                            
+                            "Tywin's treachery is accomplished in the wedding of Edmure Tully to Roslin Frey at the Twins, where Robb, Catelyn, and many others are murdered under guest right. The Starks and Tullys are ousted from power, replaced respectively by the Lannister-backed Boltons and Freys,[51] although Lord Petyr Baelish has been named Lord Paramount of the Trident.[107] Tywin negotiates marriages to Freys for Ser Lancel Lannister, Ser Daven Lannister, and Joy Hill.[51] Most of the Stark and Tully bannermen grudgingly return to the king's peace after the Red Wedding. With Renly Baratheon and Robb dead, Stannis Baratheon repelled and with few followers, and the Greyjoys concentrating on the north, Lannister power is at its zenith.[108]",
+                            
+                            "When King Joffrey unexpectedly dies at his wedding feast, Cersei wrongfully accuses Tyrion of the deed.[108] Joffrey's younger brother, Tommen Baratheon, becomes king.[109] Tywin is a judge at Tyrion's trial, along with Mace Tyrell and Prince Oberyn Martell, the Red Viper of Dorne.[110] After a bevy of witnesses defame Tyrion, including those he thought his friends, the Imp demands a trial by combat.[111] Since Ser Gregor Clegane is appointed the royal champion, Prince Oberyn fights for Tyrion in an effort to avenge his sister, Princess Elia Martell, killed by Gregor during Tywin's Sack of King's Landing. Oberyn loses, however, and Tyrion is condemned to die.[111]",
+                            
+                            "Jaime's return to the capital finds him a changed man, increasingly at odds with his family. He quarrels with Lord Tywin, refusing to resign from the Kingsguard to become heir to Casterly Rock. Tywin gifts him with a Valyrian steel sword, but Jaime names it Oathkeeper and gives it to Brienne, asking her to protect the missing Sansa Stark.[109] Tyrion and Jaime separately conclude that Joffrey was responsible for sending the catspaw to assassinate Bran Stark.[108][109] Before Tyrion can be executed Jaime forces Varys to help him free his brother his cell; Tyrion reveals Cersei's infidelity but accepts false responsibility for Joffrey's death. During his escape, Tyrion strangles his former lover, Shae, and kills his father, Tywin, with a crossbow.[112]",
+                            
+                            "At the Eyrie, Sansa learns that Lysa Arryn and Petyr Baelish, not the Lannisters, were responsible for the death of Lord Jon Arryn.[113]"
+                        ]
+                    },
+                    "affc": {
+                        "title": "A Feast for Crows",
+                        "id": "A_Feast_for_Crows",
+                        "content": [
+                            "Dead soldiers with bearing the colors of House Lannister have washed up on the Quiet Isle. According to the Elder Brother, they are buried next to their enemies.[114]",
+                            
+                            "Tywin Lannister's death lingers over the realm. Cersei resumes her regency, now over the newly-crowned Tommen I, and she sets out to prove herself a better ruler than her father. Ignoring her father's plans, she fills the small council with her own lackeys.[115] As Queen Regent, she tries to appoint Jaime as Hand of the King, but he refuses.[116] Ser Kevan Lannister acknowledges Cersei as Lady of Casterly Rock. She offers him the position of Hand, which he declines unless he can also assume the regency. Cersei refuses to give up her power and appoints Ser Daven Lannister as the new Warden of the West to slight Kevan, and Ser Damion Lannister is named castellan of the Rock.[43] Finally she makes Ser Harys Swyft the Hand, because he is a tractable man and Kevan is wend to his daughter, Dorna Swyft.[115] Kevan helps his son, Lord Lancel Lannister, at Darry and then continues on to the Rock.[117] ",
+                            
+                            "Cersei puts out a bounty for Tyrion's head, resulting in the deaths of many innocent dwarfs throughout the Seven Kingdoms,[115] but she refuses to rescind the offer for fear someone might stay his hand. Despite Tommen's marriage to Queen Margaery Tyrell, Cersei begins to plot against the Tyrells, whom she suspects of intrigue. She gives her maid Senelle, whom she suspects of espionage, to Lord Qyburn, her master of whisperers, for his experiments in necromancy, along with the corpse of Gregor Clegane, who has died from the poisoned spear of Oberyn Martell.[115] Margaery wants her brother, Ser Loras Tyrell, to become King Tommen's master-at-arms, but Cersei refuses.[47] The queen regent tasks Ser Balon Swann with delivering the Mountain's skull to Oberyn's family in Dorne.[115]",
+                            
+                            "To raise funds to build new dromonds, Cersei defers repayments of all crown debts,[115] angering the Iron Bank of Braavos and the Faith of the Seven, and she also has the High Septon chosen by Tyrion assassinated by Osney Kettleblack.[118] She tries to mollify the new High Septon, the so-called High Sparrow, by allowing the return of the Faith Militant.[119]",
+                            
+                            "Euron Greyjoy, the new King of the Isles and the North, leads the ironborn in the taking of the Shields, outraging the Tyrells. Cersei grants Loras his wish to take command of the siege of Dragonstone, hoping that he would rashly storm the castle to free up the Redwyne fleet.[120] Her hopes are fulfilled, as the Knight of Flowers is reportedly maimed by boiling oil.[121] ",
+                            
+                            "Meanwhile, Cersei has charged Jaime with resolving Daven's siege of Riverrun and subduing the rest of the riverlands.[122] While on campaign, Jaime tries to hone his swordsmanship with his remaining left hand with the mute Ser Ilyn Payne.[122] Jaime confronts his cousin Lancel at Darry, where the latter is lord but has sworn himself to the Faith Militant.[117] Jaime takes command at Riverrun, meeting his aunt Genna, dismissing Ser Ryman Frey, and taking Edmure Tully as his own prisoner.[123][124] Ser Brynden Tully escapes the castle and Edmure surrenders Riverrun to Genna's husband, Ser Emmon Frey.[106]",
+                            
+                            "Cersei maneuvers Margaery into being seized by the Faith for adultery and high treason.[118] When Cersei visits the Great Sept of Baelor, however, the High Sparrow has the Queen Regent arrested for her own fornications, murders, and other myriad sins.[118] Lord Orton Merryweather, having replaced Harys Swyft as Hand, flees the capital, and Lord Aurane Waters sails away with Cersei's new dromonds. Harys, now master of coin, and Grand Maester Pycelle take control of King Tommen and request that Kevan Lannister return to King's Landing as Lord Regent.[118] Cersei writes an impassioned letter to Jaime, imploring him to defend her in a trial by combat, but he burns the letter at Riverrun without response.[106]",
+                            
+                            "Brienne of Tarth searches the northern crownlands and eastern riverlands for Sansa Stark. She is joined during her journey by Podrick Payne, Tyrion's onetime squire,[125] and Ser Hyle Hunt.[126] After fighting with former Brave Companions at the Whispers[126] and the crossroads inn,[127] the three are captured by the brotherhood without banners and brought to Lady Stoneheart. Because Brienne carries Oathkeeper and documents bearing Tommen's seal, the three travelers are accused of serving the Lannisters and are threatened with hanging.[128] "
+                        ]
+                    },
+                    "adwd": {
+                        "title": "A Dance with Dragons",
+                        "id": "A_Dance_with_Dragons",
+                        "content": [
+                            "Ser Kevan Lannister, as Lord Regent, begins trying to undo Cersei's political bumbling. To placate House Tyrell, he appoints Lord Mace Tyrell as Hand of the King, and his bannermen, Lords Paxter Redwyne and Randyll Tarly, to the small council. He also visits the imprisoned Cersei, confronting her about her affair with his son, Lancel, and telling her that, regardless of her trial, her rule is at an end.[129] When Cersei undergoes her walk of atonement across King's Landing, shaven and nude, Kevan ensures that King Tommen I Baratheon does not witness the event.[130] Qyburn provides her with a new champion, Ser Robert Strong.[130][53]",
+                            
+                            "Tyrion Lannister, aided by Varys, has been smuggled to Pentos across the narrow sea. Varys's ally, Magister Illyrio Mopatis, arranges for Tyrion to travel with a misfit band to seek out Daenerys Targaryen.[131] En route, Tyrion realizes that one of the group is actually Jon Connington, the onetime Hand to Aerys II Targaryen and a friend of Aerys's son, Prince Rhaegar Targaryen. The youth traveling with Jon is said to be Rhaegar's son, Prince Aegon Targaryen, long thought to have died in the Sack of King's Landing.[132] ",
+                            
+                            "At a brothel in Selhorys, Tyrion is captured by another exiled lord, Ser Jorah Mormont, who aims to return to Daenerys for his own reasons.[133] On the way to Meereen, Tyrion befriends a dwarf woman called Penny, who had performed at Joffrey's wedding. After the Selaesori Qhoran wrecks, they are captured and sold into slavery. They are nearly killed by lions in the Great Pit of Daznak before Queen Daenerys puts an end to it.[134] When their master, Yezzan zo Qaggaz, dies of the pale mare, the trio joins the Second Sons, as Tyrion plans to have Ben Plumm switch sides again and to have the company aid Daenerys.[135][136]",
+                            
+                            "Jaime brokers peace at the siege of Raventree, the last southron stronghold loyal to Robb Stark's lost cause. While at Pennytree he unexpectedly meets Brienne of Tarth, who tells him that he must go with her to save Sansa Stark from the Hound.[137]",
+                            
+                            "Kevan and the small council try to deal with the resurgent Faith Militant, as well as the landing of the Golden Company and Aegon Targaryen in the stormlands. Varys and his little birds murder Pycelle and Kevan in the Grand Maester's chambers, however. A supporter of Aegon, Varys hopes the death of the competent Lord Regent will cast suspicion between Highgarden and Casterly Rock and continue the rifts created during Cersei's rule.[53]"
+                        ]
+                    }
+                    }
+                    
+                }
+               
+            }, 
+                "houseInfo":{
+                    "type": "house",
+                    "content": {
+                        "coatOfArms": {
+                            "title": "Coat of Arms",
+                            "content": ["A gold lion, on a crimson field", "(Gules, a lion or)"],
+                            "image": "House_Lannister"
+                        },
+                        "seat": {
+                            "title": "Seat",
+                            "content": ["Casterly Rock"]
+                        },
+                        "head": {
+                            "title": "Head",
+                            "content": ["Lady Cersei Lannister", "Tyrion Lannister (claimant)"]
+                        },
+                        "region": {
+                            "title": "Region",
+                            "content": ["Westerlands"]
+                        },
+                        "title": {
+                            "title": "Title",
+                            "content": ["King of the Rock (formerly)", "Lord of Casterly Rock", "Shield of Lannisport", "Warden of the West"]
+                        },
+                        "heir": {
+                            "title": "Heir",
+                            "content": ["Edwyn Frey[2]"]
+                        },
+                        "overlords": {
+                            "title": "Overlords",
+                            "content": ["House Baratheon of King's Landing"]
+                        },
+                        "cadetBranch": {
+                            "title": "Cadet branches",
+                            "content": ["House Lannister of Lannisport", "House Lannister of Darry", "House Lannett (possibly)", "House Lanny (possibly)", "House Lantell (possibly)"]
+                        },
+                        "ancestralWeapon": {
+                            "title": "Ancestral weapon",
+                            "content": ["Brightroar (lost)"]
+                        },
+                        "founder": {
+                            "title": "Founder",
+                            "content": ["Lann the Clever"]
+                        },
+                        "founded": {
+                            "title": "Founded",
+                            "content": ["Age of Heroes"]
+                        }
+                    }
+                }
+        },
+        {
+          "id": "Zachery_Frey",
+          "title": "Zachery Frey",
+            "content": {
+             "intro": {
+                    "title": "Intro",
+                    "id": "Intro",
+                    "content": [ "Zachery Frey is a member of House Frey, the eldest son of Ser Tytos Frey and Zhoe Blanetree. He is studying at the Sept of Oldtown.[2]"]
+                }
+            }, 
+            
+            "houseInfo": {
+                "type": "character",
+                "content": {
+                    "coatOfArms": {
+                        "title": "Coat of Arms",
+                        "content": ["Two blue towers, united by a bridge, on a silver-grey field", "(Cendrée, a bridge azure, at either end a tower of the same)"],
+                        "image": "House_Frey"
+                    },
+                    "allegiance": {
+                        "title": "Allegiance",
+                        "content": ["House Frey"]
+                    },
+                    "culture": {
+                        "title": "Culture",
+                        "content": ["Rivermen"]
+                    },
+                    "born": {
+                        "title": "Born",
+                        "content": ["In 287 AC[1]"]
+                    },
+                    "father": {
+                        "title": "Father",
+                        "content": ["Tytos Frey"]
+                    },
+                    "mother": {
+                        "title": "Mother",
+                        "content": ["Zhoe Blanetree"]
+                    },
+                    "books": {
+                        "title": "Books",
+                        "content": ["A Clash of Kings (appendix)", "A Storm of Swords (appendix)", "A Feast for Crows (appendix)"]
+                    }
+                }
+            }
+        }
+    ]
+  }
