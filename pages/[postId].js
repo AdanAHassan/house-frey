@@ -39,7 +39,7 @@ export const getStaticPaths = async () => {
     return {
         paths: [
             {
-                params: {postId: "1"}
+                params: {postId: "House_Frey"}
             }
         ],
         fallback: true
