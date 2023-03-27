@@ -15,7 +15,7 @@ const RecentEvents = ({post}) => {
             <h3 class="text-2xl mx-4 mb-2" id={items.id} key={indexes}>{items.title}</h3>
             {items.content.map((item, index) => {
                 const result = item.replace(/\[(?<num>.*?)\]/gm, "<sup>$&</sup>")
-                return ( <div dangerouslySetInnerHTML={{__html: `<p class="mx-6 my-2" key=${index}>${result}</p>`}}></div>)
+                return ( <div key={index} dangerouslySetInnerHTML={{__html: `<p class="mx-6 my-2">${result}</p>`}}></div>)
             }
                 )}
             </>

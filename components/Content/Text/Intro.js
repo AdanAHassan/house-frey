@@ -8,7 +8,7 @@ const Intro = ({post}) => {
     <div class="" id={intro.id}> 
         {intro.content.map((item, index)  => {
             const result = item.replace(/\[(?<num>.*?)\]/gm, "<sup>$&</sup>")
-            return ( <div dangerouslySetInnerHTML={{__html: `<p class="mx-6 my-2" key=${index}>${result}</p>`}}></div>)
+            return ( <div key={index} dangerouslySetInnerHTML={{__html: `<p class="mx-6 my-2">${result}</p>`}}></div>)
         }
         )}
     </div>

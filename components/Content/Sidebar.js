@@ -18,7 +18,7 @@ const Sidebar = ({post}) => {
     
     useEffect(() => {
         setRevealBool(Object.values(content).length>1)
-    }, [])
+    },)
     
 return (
     <>

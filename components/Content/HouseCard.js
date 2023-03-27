@@ -42,16 +42,16 @@ const HouseCard = ({post}) => {
         </div>
       }
         <div className="house-info">
-            <table  class="" >
-                    {Object.values(houseInfo).map(items =>
-                    <tr class="">
+            <table>
+                    {Object.values(houseInfo).map((items, indexes) =>
+                    <tr key={indexes}>
                         <th class="text-start align-top p-1">{items.title}</th>
                         <td class="flex flex-col p-1">
                             {items.content.map((item, index) => {
                                 const intermediate1 = item.replace(/\[(?<num>.*?)\]/gm, "<sup>$&</sup>")
                                 const intermediate2 = intermediate1.replace(/\((?<coat>.*\s.*?)\)/gm, "(<em>$1</em>)")
                                 const result = intermediate2.replace(/\((?<text>\S*?)\)/gm, "<small>$&</small>")
-                                return ( <div dangerouslySetInnerHTML={{__html: `<p key=${index}>${result}</p>`}}></div>)
+                                return ( <div key={index} dangerouslySetInnerHTML={{__html: `<p>${result}</p>`}}></div>)
                             }
                             )}
                         </td>
