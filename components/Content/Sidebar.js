@@ -33,7 +33,7 @@ return (
                     {Object.values(items.content).map((item, index) =>
                         <Link href={`#${item.id}`} key={index}>
                             <div class="bg-white flex flex-col items-end bg-opacity-50 hover:bg-opacity-100 group">
-                                <div class="bg-zinc-900 w-[99.5%] pl-6 text-white/70 group-hover:text-white">{item.title}</div>
+                                <div class="bg-black w-[99.5%] pl-6 text-white/70 group-hover:text-white">{item.title}</div>
                             </div>
                         </Link>
                     )}
