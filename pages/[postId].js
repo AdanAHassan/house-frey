@@ -35,7 +35,7 @@ export async function getStaticProps(context){
 }
 
 export const getStaticPaths = async () => {
-       const response = await fetch(`https://copper-chipmunk-gear.cyclic.app/POV/`)
+       const response = await fetch(`https://copper-chipmunk-gear.cyclic.app/POV`)
        const data = await response.json()
        
        const paths = data.map((post) => {
@@ -44,5 +44,10 @@ export const getStaticPaths = async () => {
                    postId: `${post.id}`
             }
         }
-       }
+       })
+       
+       return {
+           paths,
+           fallback: false
+    }
 }
