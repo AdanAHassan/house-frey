@@ -2,7 +2,6 @@ const Intro = ({post}) => {
     if(post.content.intro){
         var intro = post.content.intro
     }
-    console.log(post.content.intro.content)
 
   return (
     <div class="" id={intro.id}> 
