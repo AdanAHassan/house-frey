@@ -14,8 +14,6 @@ const Sidebar = ({post}) => {
     }
     const [revealBool, setRevealBool] = useState(false)
     
-    console.log(Object.values(content).length>1)
-    
     useEffect(() => {
         setRevealBool(Object.values(content).length>1)
     },[content])
