@@ -6,8 +6,8 @@ const Test = ({post}) => {
         (
             <>
             <div>{terminalObj.title}</div>
-            {terminalObj.content.map(terminalArr => 
-                <div>{terminalArr}</div>
+            {terminalObj.content.map((terminalArr, index) => 
+                <div key={`test-${index}`}>{terminalArr}</div>
             )}
             </>
         )
@@ -119,4 +119,4 @@ const runLoop = (input) => {
   )
 }
 
-export default Test 
+export default Test
