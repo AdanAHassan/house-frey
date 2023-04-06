@@ -4,6 +4,7 @@ import Intro from './Content/Text/Intro'
 import Traits from './Content/Text/Traits'
 import HouseCard from './Content/HouseCard'
 import Sidebar from './Content/Sidebar'
+import Test from './Content/Test'
 import Navbar from './Content/Navbar'
 import {useState} from "react"
 
@@ -14,7 +15,7 @@ const WikiFrey = ({post}) => {
     const revealNav = () => {
         setHamButton(!hamButton)
     }
-    
+    console.log()
 return (
     <div class="relative w-screen h-full flex flex-col gap-0 overflow-y-auto" onClick={() => setHamButton(false)}>
     <Navbar post={post}/>
