@@ -21,17 +21,17 @@ const Sidebar = ({post}) => {
 return (
     <>
     {revealBool && (
-    <div class="mt-0 lg:mt-24 flex flex-col ">
-        <h2 class="text-4xl md:text-xl ml-[-16px] pb-2">Content</h2>
-        <div class="flex flex-col gap-2">
+    <div className="mt-0 lg:mt-24 flex flex-col ">
+        <h2 className="text-4xl md:text-xl ml-[-16px] pb-2">Content</h2>
+        <div className="flex flex-col gap-2">
         {typeof(content)!=="undefined" && Object.values(content).map((items, indexes) =>
-            <div class="flex flex-col gap-2" key={indexes}>
-                <Link href={`#${items.id}`}><div class="text-2xl md:text-base" key={indexes}>{items.title}</div></Link>
+            <div className="flex flex-col gap-2" key={indexes}>
+                <Link href={`#${items.id}`}><div className="text-2xl md:text-base" key={indexes}>{items.title}</div></Link>
                 <div>
                     {Object.values(items.content).map((item, index) =>
                         <Link href={`#${item.id}`} key={index}>
-                            <div class="bg-white flex flex-col items-end bg-opacity-50 hover:bg-opacity-100 group">
-                                <div class="bg-black w-[99.5%] pl-6 text-white/70 group-hover:text-white">{item.title}</div>
+                            <div className="bg-white flex flex-col items-end bg-opacity-50 hover:bg-opacity-100 group">
+                                <div className="bg-black w-[99.5%] pl-6 text-white/70 group-hover:text-white">{item.title}</div>
                             </div>
                         </Link>
                     )}

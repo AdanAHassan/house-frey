@@ -21,7 +21,7 @@ const runLoop = (input) => {
     Object.values(input).map(items => 
         (
             <>
-            <h3 class="text-2xl text-red-500 mx-4 mb-2" id={items.id}>{items.title}</h3>
+            <h3 className="text-2xl text-red-500 mx-4 mb-2" id={items.id}>{items.title}</h3>
             {items.terminal
                 ?
                 console.log(items)
@@ -47,7 +47,7 @@ const runLoop = (input) => {
     
         const loopFunction = (num,thing) => {
             thing.splice(num, 1)
-            thing.map((bruh, indy) => {return (<p key={indy} id="WTF" class="text-red-500">{bruh}</p>)} )
+            thing.map((bruh, indy) => {return (<p key={indy} id="text" className="text-red-500">{bruh}</p>)} )
         }
         
     const loopArray = (arr) => {
@@ -60,11 +60,11 @@ const runLoop = (input) => {
         item.content))}
         )
     }
-    console.log(Object.values(content).filter(items => items.terminal===false).map(item => Object.values(item.content)))
+//     console.log(Object.values(content).filter(items => items.terminal===false).map(item => Object.values(item.content)))
     
 
   return (
-    <div class="wtf" id={content.id}>
+    <div className="text flex flex-col" id={content.id}>
     {typeof(content)=="object" && (
             
         <>

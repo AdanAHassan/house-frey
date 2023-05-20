@@ -2,8 +2,49 @@ import Link from "next/link"
 import Image from "next/image"
 import Head from 'next/head'
 import Sigils from "../public/sigils/Sigils.js"
+import _ from "lodash"
+import { useState } from "react"
 
 function PostList({posts}) {
+    const navObj = {
+        all: {
+            title: "All",
+            id: "all",
+            set: "setAllBool"
+        }
+    }
+    
+    posts.map(item => {
+        navObj[item.group] = {
+            title: _.startCase(item.group),
+            id: _.snakeCase(item.group),
+            group: item.group,
+            get: `${item.group}Bool`,
+            set: `set${_.upperFirst(item.group)}Bool`
+        }
+    })
+    
+    const [westerosiBool, setWesterosiBool] = useState(true)
+    const [basedOnGamesBool, setBasedOnGamesBool] = useState(true)
+    const [freeCitiesBool, setFreeCitiesBool] = useState(true)
+    const [ghiscarAndSlaversBayBool, setGhiscarAndSlaversBayBool] = useState(true)
+    const [summerIslesBool, setSummerIslesBool] = useState(true)
+    const [yiTiBool, setYiTiBool] = useState(true)
+    
+    const setAllBool = () => {
+// //   currentState returns true if every get value is true or undefined for the first Object
+// //   onClick they will all have the same value so the all button will display if all or none of the houses
+        let currentState = Object.values(navObj).every(item => eval(`${item.get}`)===undefined || eval(`${item.get}`))
+        setWesterosiBool(!currentState)
+        setBasedOnGamesBool(!currentState)
+        setFreeCitiesBool(!currentState)
+        setGhiscarAndSlaversBayBool(!currentState)
+        setSummerIslesBool(!currentState)
+        setYiTiBool(!currentState)
+    }
+    
+//     console.log(posts.filter(post => post.id.match(/^House\_/gm) || post.group==="yiTi"))
+
     return (
     <>
     <Head>
@@ -13,21 +54,26 @@ function PostList({posts}) {
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
         <link rel="icon" href="/Kingsguard.ico"/>
     </Head>
-    <div class="p-4 h-screen bg-zinc-900">
+    <div className="p-4 min-h-screen bg-zinc-900">
         <h1>List of pages made ({posts.length})</h1>
-        <div class="flex flex-row gap-4 p-4 flex-wrap">
-        {
-            posts.map((post) => (
+        <div class="nav flex flex-row p-4 gap-2 flex-wrap">
+        {Object.values(navObj).map(item => 
+            <div key={item.id} onClick={() => item.id!=="all" ? eval(`${item.set}(!${item.get})`) : setAllBool() } className={`w-fit p-2 border-2 border-white rounded duration-100 transition ease-in-out ${item.id!=="all" ? eval(item.get) ? "bg-white text-black hover:bg-black hover:text-white" : "bg-black text-white hover:bg-white hover:text-black" : "" } ${item.id==="all" ? Object.values(navObj).every(item => eval(`${item.get}`)===undefined || eval(`${item.get}`)) ? "bg-white text-black hover:bg-black hover:text-white" : "bg-black text-white hover:bg-white hover:text-black" : ""} hover:cursor-pointer `}  id={item.id}>{item.title}</div>
+        )}
+        </div>
+        <div className="flex flex-row gap-4 p-4 flex-wrap w-full justify-center">
+        {posts.filter(post => post.id.match(/^House\_/gm) || post.group==="yiTi").map((post) => 
+          eval(`${navObj[post.group].get}`) && (
                 <Link href={`/${post.id}`} passHref key={post.id}>
-                    <div class="text-center flex flex-col bg-zinc-800 hover:bg-zinc-700 py-4 rounded-md text-sm w-40">
-                        <h2>{post.title}</h2>
-                        <Image 
+                    <div className="text-center flex flex-col bg-zinc-800 hover:bg-zinc-700 h-60 w-40 md:h-60 md:w-60 lg:h-60 lg:w-60 p-4 rounded-md text-sm w-40 group justify-around">
+                        <h2 className="text-base md:text-lg lg:text-xl">{post.title}</h2>
+                        <Image
                             alt={`${post.title} image`}
-                            src={Sigils[post.houseInfo.content.coatOfArms.image]}
-                            width="70"
-                            className="mx-auto"
+                            src={Sigils[post.id] ? Sigils[post.id] : post.region==="Dorne" ? Sigils.None_Dorne : Sigils[post.region] ? Sigils[post.region] : Sigils.None}
+                            width={100}
+                            className="mx-auto fill-black"
                         />
-                    {post.houseInfo.type=="house"?<p>House page</p>:<p>Character page</p>}
+                        <p className="invisible group-hover:visible text-base md:text-lg lg:text-xl">{post.region}</p>
                     </div>
                 </Link>
             ))
