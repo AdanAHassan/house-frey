@@ -1,10 +1,5 @@
-import History from './Content/Text/History'
-import RecentEvents from './Content/Text/RecentEvents'
-import Intro from './Content/Text/Intro'
-import Traits from './Content/Text/Traits'
 import HouseCard from './Content/HouseCard'
 import Sidebar from './Content/Sidebar'
-import Test from './Content/Test'
 import Navbar from './Content/Navbar'
 import Text from './Content/Text'
 import {useState} from "react"
@@ -16,6 +11,7 @@ const WikiFrey = ({post}) => {
     const revealNav = () => {
         setHamButton(!hamButton)
     }
+    
 return (
     <div className="relative w-screen h-full flex flex-col gap-0 overflow-y-auto" onClick={() => setHamButton(false)}>
     <Navbar post={post}/>
@@ -28,20 +24,6 @@ return (
           <h1 className="text-6xl my-5 text-center" style={{
             fontFamily: "Uncial Antiqua',cursive"
           }}>{post.title}</h1>
-          {/*
-        <div className="flex flex-row flex-wrap sm:flex-nowrap justify-between pb-6 pr-6 lg:hidden">
-          <div className="flex flex-col">
-            <div className=""> <Intro post={post} /> </div>
-            <div className="pl-6 pt-0 mt-0"> <Sidebar post={post}/> </div>
-          </div>
-          <div className="w-full pl-6 pt-6 sm:pl-0 sm:w-fit"> <HouseCard post={post} /> </div>  </div>
-        <div className="hidden lg:block">
-            <Intro post={post}/> 
-        </div>
-        <Traits post={post}/>
-        <History post={post} />
-        <Test post={post} />
-            */}
             <Text content={post.content}/>
         </div>
       </div>
